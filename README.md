@@ -90,7 +90,7 @@ Tech Stack:
 
 - **Node.js**
 - **Express.js**
-- **PostgreSQL**
+- **MySQL**
 - **JWT Authentication**
 
 All protected routes require **JWT authentication**.
